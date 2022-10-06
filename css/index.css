@@ -148,13 +148,12 @@ table {
 
 .slick-carousel {
 	margin: 0 auto;
-	width: 1250px;
+
+    position: relative;
 	
   }
   
-  .slick-slide {
-	width: 1250px;
-  }
+ 
   
   .slick-next::before, .slick-prev::before {
 	color: black;
@@ -164,8 +163,8 @@ table {
   {
 	  display:inline-block;
 	  border:0;
-	  width:695px;
-	  height:465px;
+	  width:500px;
+	  height:400px;
 	  position: relative;
 	  -webkit-transition: all 200ms ease-in;
 	  -webkit-transform: scale(1); 
@@ -192,6 +191,8 @@ table {
 	  transform: scale(1.1);
   }
 
+  
+
   .creamColor{
 background-color: #F5F5DC;
   }
@@ -202,13 +203,13 @@ margin-left: 100px;
   }
 
   .home-bg{
-	height: 500px;
+	
+	min-height: 500px;
 	background:url("../images/index5.jpg") no-repeat;
 	background-attachment:fixed;
 	padding-top:600px;
 	background-size:cover;
-	background-color: center, center;	
-	
+	background-color: center, center;		
   }
   
   .content04-test{
