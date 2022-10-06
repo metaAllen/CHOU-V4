@@ -25,24 +25,7 @@ background: rgb(70, 70, 70);
 color: rgb(255, 255, 255);
 }
 
-.navbar-brand{
-  margin-left: 100px;
-}
 
-.navbar{
-  margin-right: 60px !important;
-  margin-top: 6.3px !important;
-}
-
-.fa-shopping-cart{
-  margin-right: -33px !important;
-  margin-top: 20px;
-}
-
-.fa-user{
-  margin-right: -3px !important;
-  margin-top: 20px;
-}
 
 body {
 	background-color: #f9f9f9;
