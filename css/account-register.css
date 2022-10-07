@@ -162,5 +162,6 @@ body {
   }
 
   .tabs{
-	width: 103% !important;
+	width: 105% !important;
+	position: relative;right:10px;
 }
