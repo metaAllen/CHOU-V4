@@ -143,7 +143,7 @@ table {
         fill: #fd5f00;position: relative;top:-240px;
 }
     .hero__test{
-        position: relative;top:220px; left:-55px; color: rgb(0, 0, 0);
+        position: relative;top:250px; color: rgb(0, 0, 0);
 }
 
 .slick-carousel {
@@ -205,10 +205,10 @@ margin-left: 100px;
 
   .home-bg{
 	
-	min-height: 500px;
-	background:url("../images/index5.jpg") no-repeat;
+	
+	background:url("../images/index5.1.jpg") no-repeat;
 	background-attachment:fixed;
-	padding-top:600px;
+	padding-top:450px;
 	background-size:cover;
 	background-color: center, center;		
   }
