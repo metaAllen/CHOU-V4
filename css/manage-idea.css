@@ -16,8 +16,8 @@
 
 
       .fashion {
-        width: 450px;
-        height: 450px;
+        width: 300px;
+        height: 300px;
         
         perspective: 1000px;
       }
@@ -81,10 +81,6 @@
         -moz-transform: rotate(180deg);
         transform: rotate(180deg);
       } 
-.btn-info{
-  margin-top: -28%;
-  margin-left: 3.5%;
-}
 
 body {
 	background-color: #f9f9f9;
@@ -201,3 +197,16 @@ body {
   {
 	transform: none;
   }
+
+  .btn-info{
+    width: 30%;
+    height: 50px;
+    margin-top: -180px;
+    margin-left: -20px;
+    scale: 50%;
+   
+    
+
+   
+  }
+  

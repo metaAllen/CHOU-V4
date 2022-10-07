@@ -1,6 +1,6 @@
 .slick-store {
     margin: 0 auto;
-    width: 1000px;  
+	width:85%;
     height: 500px;
   } 
 .slick-next::before, .slick-prev::before {
@@ -12,11 +12,11 @@
 }
 
 .btn-cart{
-  margin: 0 auto;
+  max-height: 70px;
+  text-align: center;
   padding-top: 20px;
   padding-bottom:20px ;
-  padding-left: 135px;
-  padding-right:135px ;
+
   background: rgb(234, 234, 234);
   color: rgb(0, 0, 0);
 }
@@ -25,23 +25,8 @@ background: rgb(70, 70, 70);
 color: rgb(255, 255, 255);
 }
 
-.navbar-brand{
-  margin-left: 100px;
-}
-
-.navbar{
-  margin-right: 60px !important;
-  margin-top: 6.3px !important;
-}
-
-.fa-shopping-cart{
-  margin-right: -33px !important;
-  margin-top: 20px;
-}
-
-.fa-user{
-  margin-right: -3px !important;
-  margin-top: 20px;
+span{
+	white-space:nowrap;
 }
 
 body {

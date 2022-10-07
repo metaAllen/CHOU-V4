@@ -143,18 +143,17 @@ table {
         fill: #fd5f00;position: relative;top:-240px;
 }
     .hero__test{
-        position: relative;top:220px; left:-55px; color: rgb(0, 0, 0);
+        position: relative;top:250px; color: rgb(0, 0, 0);
 }
 
 .slick-carousel {
 	margin: 0 auto;
-	width: 1250px;
+	width:85%;
+    position: relative;
 	
   }
   
-  .slick-slide {
-	width: 1250px;
-  }
+ 
   
   .slick-next::before, .slick-prev::before {
 	color: black;
@@ -164,8 +163,9 @@ table {
   {
 	  display:inline-block;
 	  border:0;
-	  width:695px;
-	  height:465px;
+	  width:500px;
+	  width:97%;
+	  height:400px;
 	  position: relative;
 	  -webkit-transition: all 200ms ease-in;
 	  -webkit-transform: scale(1); 
@@ -192,6 +192,8 @@ table {
 	  transform: scale(1.1);
   }
 
+  
+
   .creamColor{
 background-color: #F5F5DC;
   }
@@ -202,13 +204,13 @@ margin-left: 100px;
   }
 
   .home-bg{
-	height: 500px;
-	background:url("../images/index5.jpg") no-repeat;
-	background-attachment:fixed;
-	padding-top:600px;
-	background-size:cover;
-	background-color: center, center;	
 	
+	
+	background:url("../images/index5.1.jpg") no-repeat;
+	background-attachment:fixed;
+	padding-top:450px;
+	background-size:cover;
+	background-color: center, center;		
   }
   
   .content04-test{
