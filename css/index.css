@@ -148,7 +148,7 @@ table {
 
 .slick-carousel {
 	margin: 0 auto;
-
+	width:90%;
     position: relative;
 	
   }
@@ -164,6 +164,7 @@ table {
 	  display:inline-block;
 	  border:0;
 	  width:500px;
+	  width:95%;
 	  height:400px;
 	  position: relative;
 	  -webkit-transition: all 200ms ease-in;

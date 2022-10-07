@@ -1,6 +1,6 @@
 .slick-store {
     margin: 0 auto;
-    width: 1000px;  
+	width:85%;
     height: 500px;
   } 
 .slick-next::before, .slick-prev::before {
