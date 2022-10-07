@@ -37,10 +37,7 @@ h5
 	margin-bottom: 50px;
 }
 
-.tabs{
-	position: relative;left:-15px;
-	width: 103% !important;
-}
+
 
 .navbar-brand{
 margin-bottom: -100px;
@@ -163,3 +160,7 @@ body {
   {
 	transform: none;
   }
+
+  .tabs{
+	width: 103% !important;
+}
